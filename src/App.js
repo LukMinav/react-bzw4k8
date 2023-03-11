@@ -1,6 +1,6 @@
 import React from 'react';
 
-function MiComponente() {
+function MiComponente(props) {
   return (
     <div>
       <h1>Mi Título</h1>
